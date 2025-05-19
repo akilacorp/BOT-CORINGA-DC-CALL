@@ -166,11 +166,5 @@ Desenvolvido por [Akila](https://github.com/akila) e [AesCorp](https://whatsapp.
 - Canal do WhatsApp: [AesCorp](https://whatsapp.com/channel/0029VbB1a77545ussjB7uu1s)
 - Página do Projeto: [GitHub](https://github.com/akilacorp/BOT-CORINGA-DC-CALL/tree/main)
 
-## Licença 📄
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
-
----
-
 💬 **"A tecnologia deve aproximar pessoas, e o que melhor que fazer isso através da voz?"**
    
