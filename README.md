@@ -1,4 +1,4 @@
-# BOT FALADOR DISCORD 🤖🎙️
+# BOT CALL DISCORD 🤖🎙️
 
 ![Bot Coringa](https://cdn6.campograndenews.com.br/uploads/noticias/2020/03/10/ckogiso33h5e.jpg)
 
