@@ -1,0 +1,15 @@
+# Dependências
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Arquivos de ambiente
+.env
+
+# Diretórios de áudio temporários
+temp/
+
+# Outros arquivos
+.DS_Store
+Thumbs.db
