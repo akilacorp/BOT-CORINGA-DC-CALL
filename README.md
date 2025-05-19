@@ -164,7 +164,7 @@ Para contribuir com o projeto, enviar feedback ou relatar problemas:
 Desenvolvido por [Akila](https://github.com/akila) e [AesCorp](https://whatsapp.com/channel/0029VbB1a77545ussjB7uu1s)
 
 - Canal do WhatsApp: [AesCorp](https://whatsapp.com/channel/0029VbB1a77545ussjB7uu1s)
-- Página do Projeto: [GitHub](https://github.com/seu-usuario/bot-falador-discord)
+- Página do Projeto: [GitHub](https://github.com/akilacorp/BOT-CORINGA-DC-CALL/tree/main)
 
 ## Licença 📄
 
